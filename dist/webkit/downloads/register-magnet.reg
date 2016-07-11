@@ -1,0 +1,21 @@
+REGEDIT4
+[HKEY_CLASSES_ROOT\Magnet]
+@="URL:magnet Protocol"
+"Content Type"="application/x-magnet"
+"URL Protocol"=""
+[HKEY_CLASSES_ROOT\Magnet\DefaultIcon]
+@="\"C:\\Users\\Phantomware\\Documents\\GitHub\\phancast-interactive\\nw.exe\"
+[HKEY_CLASSES_ROOT\Magnet\shell]
+[HKEY_CLASSES_ROOT\Magnet\shell\open]
+[HKEY_CLASSES_ROOT\Magnet\shell\open\command]
+@="\"C:\\Users\\Phantomware\\Documents\\GitHub\\phancast-interactive\\nw.exe\" \"%1\""
+[HKEY_CURRENT_USER\Software\Classes\Magnet]
+@="URL:magnet Protocol"
+"Content Type"="application/x-magnet"
+"URL Protocol"=""
+[HKEY_CURRENT_USER\Software\Classes\Magnet\DefaultIcon]
+@="\"C:\\Users\\Phantomware\\Documents\\GitHub\\phancast-interactive\\nw.exe\"
+[HKEY_CURRENT_USER\Software\Classes\Magnet\shell]
+[HKEY_CURRENT_USER\Software\Classes\Magnet\shell\open]
+[HKEY_CURRENT_USER\Software\Classes\Magnet\shell\open\command]
+@="\"C:\\Users\\Phantomware\\Documents\\GitHub\\phancast-interactive\\nw.exe\" \"%1\""

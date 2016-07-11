@@ -1,0 +1,8 @@
+REGEDIT4
+[HKEY_CURRENT_USER\Software\Classes\Phancast.player\DefaultIcon]
+@="C:\\Users\\Phantomware\\Documents\\GitHub\\phancast-interactive\\nw.exe"
+[HKEY_CURRENT_USER\Software\Classes\Phancast.player\shell\open\command]
+@="\"C:\\Users\\Phantomware\\Documents\\GitHub\\phancast-interactive\\nw.exe\" \"%1\""
+[HKEY_CURRENT_USER\Software\Classes\.torrent]
+@="Phancast.player"
+"Content Type"="application/x-bittorrent"
